@@ -1186,6 +1186,9 @@
         },
         {
           "path": "json/caps_lock_tapped_caps_held_cmd.json"
+        },
+        {
+          "path": "json/keychron_k3-swap_pound_and_hash.json"
         }
       ]
     },
